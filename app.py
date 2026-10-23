@@ -1,1 +1,4 @@
-print("Hello, 42")
+#print("Hello, 42")
+#legacy
+
+print("52")
